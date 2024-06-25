@@ -19,13 +19,6 @@ Ni ska bygga en webbplats för en katalog över Star Wars karaktärer.
 * Medans en request håller på laddar ska en preloader visas i respektive låda
 * Styling enligt mock, flasha med lite transitions
 
-## Instruktioner
-1. En i gruppen forkar det här repot. Lägg till den andra medlemmen på repot.
-1. Gör en komponentanalys, dokumentera detta
-1. Gör en planering, vad och vilken ordning ska allt göras, dokumentera detta
-1. Bestäm när, var och hur ni träffas
-1. Start developing! Gör commits ofta och glöm inte att pusha till repot.
-
 ## Tekniker
 * DOM-Interaktion och Manipulation
 * Events
@@ -33,12 +26,7 @@ Ni ska bygga en webbplats för en katalog över Star Wars karaktärer.
 * Interaktion med webbtjänst
 * De fem grundpelarna
 
-## Bedömning
-* Kodstruktur och kodkvalité
-* Buggmängd
-* Hur väl ni visar förståelse för teknikerna
-
-## Level Up - VG-kravet
+## Level Up
 
 ### Ytterligare specifikation
 Boxxen till höger ska ha 4 olika lägen som man kan växla mellan med tabbar(se mock).
